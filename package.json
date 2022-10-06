@@ -1,0 +1,18 @@
+{
+  "name": "ss30-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "ออกสลากออนไลน์✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"ออกสลากออนไลน์",
+"แทงหวย24ชั่วโมง",
+"lottovip เข้าสู่ระบบล่าสุด",
+"ติดต่อเว็บหวย24",
+"บ้านหวยสด"
+],
+  "repository": "https://github.com/setteebet/ss30-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
